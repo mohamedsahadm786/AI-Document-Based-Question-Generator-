@@ -1,0 +1,6 @@
+openai
+PyMuPDF
+python-docx
+pytesseract
+pdfplumber
+requests
